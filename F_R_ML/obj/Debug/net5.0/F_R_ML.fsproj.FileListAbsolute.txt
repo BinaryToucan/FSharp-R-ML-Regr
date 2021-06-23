@@ -1,0 +1,3 @@
+C:\Users\binar\RiderProjects\F_R_ML\F_R_ML\obj\Debug\net5.0\F_R_ML.fsproj.AssemblyReference.cache
+C:\Users\binar\RiderProjects\F_R_ML\F_R_ML\obj\Debug\net5.0\F_R_ML.AssemblyInfoInputs.cache
+C:\Users\binar\RiderProjects\F_R_ML\F_R_ML\obj\Debug\net5.0\F_R_ML.AssemblyInfo.fs
